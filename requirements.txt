@@ -1,0 +1,12 @@
+streamlit
+streamlit_webrtc
+firebase-admin
+python-dotenv
+requests
+numpy
+pillow
+opencv-python
+mtcnn
+keras-facenet
+scikit-learn
+tensorflow
